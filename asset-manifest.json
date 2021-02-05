@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/QR-farm/static/css/main.3e2599e4.chunk.css",
+    "main.js": "/QR-farm/static/js/main.8a2d93cc.chunk.js",
+    "main.js.map": "/QR-farm/static/js/main.8a2d93cc.chunk.js.map",
+    "runtime-main.js": "/QR-farm/static/js/runtime-main.b4e591b8.js",
+    "runtime-main.js.map": "/QR-farm/static/js/runtime-main.b4e591b8.js.map",
+    "static/js/2.395510bd.chunk.js": "/QR-farm/static/js/2.395510bd.chunk.js",
+    "static/js/2.395510bd.chunk.js.map": "/QR-farm/static/js/2.395510bd.chunk.js.map",
+    "index.html": "/QR-farm/index.html",
+    "static/css/main.3e2599e4.chunk.css.map": "/QR-farm/static/css/main.3e2599e4.chunk.css.map",
+    "static/js/2.395510bd.chunk.js.LICENSE.txt": "/QR-farm/static/js/2.395510bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4e591b8.js",
+    "static/js/2.395510bd.chunk.js",
+    "static/css/main.3e2599e4.chunk.css",
+    "static/js/main.8a2d93cc.chunk.js"
+  ]
+}
