@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/QR-farm/static/css/main.3e2599e4.chunk.css",
-    "main.js": "/QR-farm/static/js/main.d70ec619.chunk.js",
-    "main.js.map": "/QR-farm/static/js/main.d70ec619.chunk.js.map",
-    "runtime-main.js": "/QR-farm/static/js/runtime-main.b4e591b8.js",
-    "runtime-main.js.map": "/QR-farm/static/js/runtime-main.b4e591b8.js.map",
-    "static/js/2.395510bd.chunk.js": "/QR-farm/static/js/2.395510bd.chunk.js",
-    "static/js/2.395510bd.chunk.js.map": "/QR-farm/static/js/2.395510bd.chunk.js.map",
-    "index.html": "/QR-farm/index.html",
-    "static/css/main.3e2599e4.chunk.css.map": "/QR-farm/static/css/main.3e2599e4.chunk.css.map",
-    "static/js/2.395510bd.chunk.js.LICENSE.txt": "/QR-farm/static/js/2.395510bd.chunk.js.LICENSE.txt"
+    "main.css": "/QR-Farm/static/css/main.3e2599e4.chunk.css",
+    "main.js": "/QR-Farm/static/js/main.d70ec619.chunk.js",
+    "main.js.map": "/QR-Farm/static/js/main.d70ec619.chunk.js.map",
+    "runtime-main.js": "/QR-Farm/static/js/runtime-main.c19342e9.js",
+    "runtime-main.js.map": "/QR-Farm/static/js/runtime-main.c19342e9.js.map",
+    "static/js/2.395510bd.chunk.js": "/QR-Farm/static/js/2.395510bd.chunk.js",
+    "static/js/2.395510bd.chunk.js.map": "/QR-Farm/static/js/2.395510bd.chunk.js.map",
+    "index.html": "/QR-Farm/index.html",
+    "static/css/main.3e2599e4.chunk.css.map": "/QR-Farm/static/css/main.3e2599e4.chunk.css.map",
+    "static/js/2.395510bd.chunk.js.LICENSE.txt": "/QR-Farm/static/js/2.395510bd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b4e591b8.js",
+    "static/js/runtime-main.c19342e9.js",
     "static/js/2.395510bd.chunk.js",
     "static/css/main.3e2599e4.chunk.css",
     "static/js/main.d70ec619.chunk.js"
